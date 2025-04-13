@@ -28,10 +28,3 @@ Run the SQL scripts
 
 script.sql
 
-**Team Members**
-
-Oluwole Owoeye - SQL Implementation
-
-Faith Chemutai - Documentation
-
-Mary Njenga - Documentation
